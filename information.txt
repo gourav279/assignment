@@ -1,0 +1,5 @@
+I have made project in javafx and mysql using wampserver
+username= "root"
+password= ""
+url= "jdbc:mysql://localhost:3306/assignmentdatabase"
+
